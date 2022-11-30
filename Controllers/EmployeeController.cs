@@ -18,5 +18,10 @@ namespace Demo.Controllers
         {
             return "Hello World11";
         }
+
+        public int Add()
+        {
+            return 10 + 10;
+        }
     }
 }
