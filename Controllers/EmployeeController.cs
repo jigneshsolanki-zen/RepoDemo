@@ -8,5 +8,10 @@ namespace Demo.Controllers
         {
             return "Jignesh";
         }
+
+        public string GetFullName()
+        {
+            return "Jignesh R Solanki";
+        }
     }
 }
