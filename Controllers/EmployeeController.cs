@@ -13,5 +13,10 @@ namespace Demo.Controllers
         {
             return "Jignesh R Solanki";
         }
+
+        public string HelloWorld()
+        {
+            return "Hello World";
+        }
     }
 }
